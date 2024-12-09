@@ -1,0 +1,6 @@
+opencv-contrib-python==4.3.*
+pandas
+Pillow
+pyqt5
+pyqt5-tools
+numpy==1.*
